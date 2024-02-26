@@ -1,16 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wanaemi James Amaegbe
+Hi 👋! My name is Wanaemi James Amaegbe
 ==================================================================================================================================================
 
-Software Developer
+Software Developer from 🇳🇬
 ------------------
 
 I am a software developer who loves React! As a lifelong lover of technology and design, I've always been drawn to the art and science of web development. It's my mission to use my skills to bring your ideas to life. I actively grow my coding skills in online bootcamps and personal projects. I am a respectful self-motivator, very fast learner and a strong ethical worker with good time management skills. Let's work together to make your next project a success.
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [jwana002@gmail.com](mailto:jwana002@gmail.com)
-* 🧠  I'm learning Typescript
+* 🔭 I’m currently working on My Portfolio
+* 🌱  I'm learning Typescript
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I'm Zuck's ex-girlfriend, Tell everyone
+* ⚡  Fun fact: I'm Zuck's ex-girlfriend, Tell everyone
 
 ### Skills
 
